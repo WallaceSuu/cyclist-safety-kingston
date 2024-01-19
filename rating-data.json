@@ -1,0 +1,86 @@
+[
+    {   
+        "id": 1,
+        "name": "Brock", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+
+    {
+        "id": 2,
+        "name": "Johnson", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+
+    {
+        "id": 3,
+        "name": "Barrie", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 4,
+        "name": "Princess", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 5,
+        "name": "Bath", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 6,
+        "name": "University", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 7,
+        "name": "Division", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 8,
+        "name": "Union", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    },
+    {
+        "id": 9,
+        "name": "Bader", 
+        "roadCondition": "0",
+        "traffic": "0",
+        "navigation": "0",
+        "overall": "0", 
+        "weighting": "0"
+    }
+]
+
